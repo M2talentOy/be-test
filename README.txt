@@ -1,0 +1,8 @@
+- Install => docker-compose up
+- ssh to db container
+- connect to mariadb via shell using username = root, password = docker
+- create new db by the name myDb
+- user myDb.sql to create table and add data
+- see if site is assessable and you are able to load data.
+- create new table called Users to store social connect user data (check fb and google API to see which data details)
+- Use fb connect to create session and save user data in table Users.
