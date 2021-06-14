@@ -5,4 +5,4 @@
 - user myDb.sql to create table and add data
 - see if site is assessable and you are able to load data.
 - create new table called Users to store social connect user data (check fb and google API to see which data details)
-- Use fb connect to create session and save user data in table Users.
+- Created registeration and login pages
